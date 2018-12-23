@@ -1,0 +1,7 @@
+id=kfmark
+name=KFMark Enabler
+version=v1.0.0
+versionCode=1
+author=MlgmXyysd
+description=A module can enable KFMark when device start.
+minMagisk=17000
