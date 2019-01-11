@@ -1,6 +1,6 @@
 # KFMark Enabler
 
-This module will enable KFMark automatically when device start.
+Adds the KFMark daemon to your $PATH and enables it on boot.
 
 ## Tips
 
